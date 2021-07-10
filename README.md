@@ -3,11 +3,7 @@
 
 A Angular Playing Project to remember how to use Angular and Angular Material and Ionic 
 
-
 The resources used in this project it's just the official sites:
-
-
-
 
 ## Acknowledgements
 
@@ -39,5 +35,3 @@ The resources used in this project it's just the official sites:
 
 - Front-end (angular-material-project): `npm start` inside file directory. 
 - Back-end (backend): `npm start` inside directory.
-
-  # project-angular12
