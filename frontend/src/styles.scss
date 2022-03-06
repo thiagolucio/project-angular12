@@ -12,8 +12,8 @@
 // Define the palettes for your theme using the Material Design palettes available in palette.scss
 // (imported above). For each palette, you can optionally specify a default, lighter, and darker
 // hue. Available color palettes: https://material.io/design/color/
-$angular-material-project-primary: mat.define-palette(mat.$gray-palette, 200, 500, 700, 800);
-$angular-material-project-accent: mat.define-palette(mat.$pink-palette, 200, 300, 400, 600);
+$angular-material-project-primary: mat.define-palette(mat.$teal-palette, A700);
+$angular-material-project-accent: mat.define-palette(mat.$pink-palette, 600);
 
 // The warn palette is optional (defaults to red).
 $angular-material-project-warn: mat.define-palette(mat.$red-palette, 500, 800, 900, 800);
@@ -40,6 +40,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
 
 .font-logo {
   font-family: 'Pacifico', cursive;
